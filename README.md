@@ -1,4 +1,4 @@
-# Diagnosis
+# Diagnosis [![Stories in Ready](https://badge.waffle.io/garyjones/diagnosis.png?label=ready&title=Ready)](http://waffle.io/garyjones/diagnosis)
 
 Adds pages to the Dashboard menu with technical details about PHP, MySQL and other server details an administrator might need.
 
