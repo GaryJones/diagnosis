@@ -3,7 +3,7 @@ Contributors: GaryJ
 Donate link: http://code.garyjones.co.uk/donate/
 Tags: diagnosis, server, PHP, MySQL, information
 Requires at least: 3.2
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 3.0.0
 
 Adds pages to the Dashboard menu with technical details about PHP, MySQL and other server details an administrator might need.
