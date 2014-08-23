@@ -3,7 +3,7 @@
  * Diagnosis.
  *
  * @package           Diagnosis
- * @author            Gary Jones <gary@gamajo.com>
+ * @author            Gary Jones <gamajo@gamajo.com>
  * @link              http://gamajo.com/
  * @copyright         2014 Gary Jones, Gamajo Tech
  * @license           GPL-2.0+
