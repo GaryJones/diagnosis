@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: GaryJ
+Contributors: GaryJ, freemius
 Donate link: http://code.garyjones.co.uk/donate/
 Tags: diagnosis, server, PHP, MySQL, information
 Requires at least: 3.2
