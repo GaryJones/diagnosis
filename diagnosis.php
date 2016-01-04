@@ -28,6 +28,39 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
+// Create a helper function for easy SDK access.
+function dia_fs() {
+	global $dia_fs;
+
+	if ( ! isset( $dia_fs ) ) {
+		// Include Freemius SDK.
+		require_once dirname( __FILE__ ) . '/freemius/start.php';
+
+		$dia_fs = fs_dynamic_init( array(
+			'id'             => '109',
+			'slug'           => 'diagnosis',
+			'public_key'     => 'pk_974f23676469e12ac6bdfe5fdb91b',
+			'is_premium'     => false,
+			'has_addons'     => false,
+			'has_paid_plans' => false,
+			'menu'           => array(
+				'slug'    => 'diagnosis',
+				'account' => false,
+				'contact' => false,
+				'support' => false,
+				'parent'  => array(
+					'slug' => 'index.php',
+				)
+			)
+		) );
+	}
+
+	return $dia_fs;
+}
+
+// Init Freemius.
+dia_fs();
+
 require_once plugin_dir_path( __FILE__ ) . 'includes/class-diagnosis.php';
 
 // Register hooks that are fired when the plugin is activated, deactivated, and uninstalled, respectively.
