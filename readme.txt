@@ -1,10 +1,12 @@
-=== Plugin Name ===
+=== Diagnosis ===
 Contributors: GaryJ
-Donate link: http://code.garyjones.co.uk/donate/
 Tags: diagnosis, server, PHP, MySQL, information
 Requires at least: 3.2
-Tested up to: 4.0
+Tested up to: 4.9.8
+Requires PHP: 5.2
 Stable tag: 3.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Adds pages to the Dashboard menu with technical details about PHP, MySQL and other server details an administrator might need.
 
