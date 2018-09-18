@@ -14,7 +14,7 @@ Adds pages to the Dashboard menu with technical details about PHP, MySQL and oth
 
 It is hard for novice WordPress users to find out what the backbone of their hosting is made up of. Some plugins may require a specific version of the PHP scripting language or a certain version of the MySQL database management software.
 
-Diagnosis adds pages to the Dashboard menu where the main administrator of the Wordpress installation can view technical data about the server in an easy manner along with a suitable explanation. Most fields also have a link to an appropriate Wikipedia article.
+Diagnosis adds pages to the Dashboard menu where the main administrator of the WordPress installation can view technical data about the server in an easy manner along with a suitable explanation. Most fields also have a link to an appropriate Wikipedia article.
 
 This plugin is predominantly based on the original Diagnosis plugin: http://nlindblad.org/wordpress/diagnosis/
 
@@ -35,6 +35,9 @@ Make sure you're on the latest version of WordPress, then let me know what the p
 1. Part of the Diagnosis screen.
 
 == Changelog ==
+
+= 3.0.1 =
+* Documentation improvements.
 
 = 3.0.0 =
 * Complete rewrite to update code organisation.

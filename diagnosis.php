@@ -12,7 +12,7 @@
  * Plugin Name:       Diagnosis
  * Plugin URI:        http://github.com/GaryJones/diagnosis
  * Description:       Adds pages to the Dashboard menu with technical details about PHP, MySQL and other server details.
- * Version:           3.0.0
+ * Version:           3.0.1
  * Author:            Gary Jones
  * Author URI:        https://garyjones.io
  * Text Domain:       diagnosis
