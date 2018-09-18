@@ -3,17 +3,17 @@
  * Diagnosis
  *
  * @package   Diagnosis
- * @author    Gary Jones <gary@gamajo.com>
- * @link      http://gamajo.com/
- * @copyright 2014 Gary Jones, Gamajo Tech
- * @license   GPL-2.0+
+ * @author    Gary Jones
+ * @link      https://garyjones.io
+ * @copyright 2014 Gary Jones
+ * @license   GPL-2.0-or-later
  */
 
 /**
  * Plugin class.
  *
  * @package Diagnosis
- * @author  Gary Jones <gary@gamajo.com>
+ * @author  Gary Jones
  */
 class Diagnosis {
 	/**

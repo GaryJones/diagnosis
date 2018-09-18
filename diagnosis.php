@@ -3,10 +3,10 @@
  * Diagnosis.
  *
  * @package           Diagnosis
- * @author            Gary Jones <gamajo@gamajo.com>
- * @link              http://gamajo.com/
- * @copyright         2014 Gary Jones, Gamajo Tech
- * @license           GPL-2.0+
+ * @author            Gary Jones
+ * @link              https://garyjones.io/
+ * @copyright         2014 Gary Jones
+ * @license           GPL-2.0-or-later
  *
  * @wordpress-plugin
  * Plugin Name:       Diagnosis
@@ -14,10 +14,10 @@
  * Description:       Adds pages to the Dashboard menu with technical details about PHP, MySQL and other server details.
  * Version:           3.0.0
  * Author:            Gary Jones
- * Author URI:        http://gamajo.com/
+ * Author URI:        https://garyjones.io
  * Text Domain:       diagnosis
  * Domain Path:       /languages
- * License:           GPL-2.0+
+ * License:           GPL-2.0-or-later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * GitHub Plugin URI: https://github.com/GaryJones/diagnosis
  * GitHub Branch:     master
